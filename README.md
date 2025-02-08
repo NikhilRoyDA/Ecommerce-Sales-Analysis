@@ -1,4 +1,4 @@
-# E-commerce Sales Data Analysis (Interactive Dashboard creation using MS Excel)
+# E-commerce Sales Data Analysis (Dashboard creation using MS Excel)
 
 ## Project Objective
 The goal of this project was to analyze raw E-commerce sales data and transform it into meaningful business insights through an interactive Excel dashboard.
