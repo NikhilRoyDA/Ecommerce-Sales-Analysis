@@ -14,8 +14,6 @@ The goal of this project was to analyze raw E-commerce sales data and transform 
 - Category Performance: Which product categories are performing best?
 - Profit Margins: How profitable is the business, and where can improvements be made?
 
-## Dashboard Interaction - <a href="https://github.com/NikhilRoyDA/Ecommerce-Sales-Analysis/blob/main/Ecommerce%20Sales%20Analysis.png">View Dashboard</a>
-
 ## Project Insights
 - Sales Growth: Year-over-year (YoY) growth shows increasing revenue and order trends, indicating business expansion.
 - Best-Selling Products: Certain product categories and specific items significantly contribute to total revenue.
@@ -23,7 +21,7 @@ The goal of this project was to analyze raw E-commerce sales data and transform 
 - Customer Behavior: Average order values and purchase frequency provide insights into customer buying patterns.
 - Performance Bottlenecks: Low-profit-margin products and underperforming categories highlight areas for improvement.
 
-## Dashboard 
+## Dashboard - <a href="https://github.com/NikhilRoyDA/Ecommerce-Sales-Analysis/blob/main/Ecommerce%20Sales%20Analysis.png">View Dashboard</a>
 ![Ecommerce Sales Analysis](https://github.com/user-attachments/assets/4f449f49-77c5-47f6-8a96-6ceef8728b40)
 
 
