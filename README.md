@@ -23,6 +23,10 @@ The goal of this project was to analyze raw E-commerce sales data and transform 
 - Customer Behavior: Average order values and purchase frequency provide insights into customer buying patterns.
 - Performance Bottlenecks: Low-profit-margin products and underperforming categories highlight areas for improvement.
 
+## Dashboard 
+![Ecommerce Sales Analysis](https://github.com/user-attachments/assets/4f449f49-77c5-47f6-8a96-6ceef8728b40)
+
+
 ## Skills Used
 - Excel: Data Cleaning, Formulas, Pivot Tables, Data Analysis
 - Data Visualization: Combo Chart, Waterfall Chart, Pie Chart, Map Chart, Bar Chart
