@@ -6,7 +6,7 @@ The goal of this project was to analyze raw E-commerce sales data and transform 
 ## Dataset used
 - <a href="https://github.com/NikhilRoyDA/Ecommerce-Sales-Analysis/blob/main/Ecommerce%20Sales%20Analysis.xlsx">Dataset</a>
 
-## Key Questions (KPIs) Answered
+## Questions (KPIs)
 - Total Sales & Profit: What are the total revenue and profit over the selected period?
 - Top-Selling Products: Which products contribute the most to sales and revenue?
 - Customer Trends: How many orders were placed, and what was the average order value?
